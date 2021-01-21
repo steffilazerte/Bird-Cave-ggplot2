@@ -11,4 +11,4 @@ file.copy(f, "slides/")
 
 
 - Regular Slides ([PDF](slides/Bird Cave Workshop 2021 - Intro to R through Figures.pdf) | [PDF Handout Style](slides/Bird Cave Workshop 2021 - Intro to R through Figures-print.pdf))
-<!-- - Answer Slides ([PDF](slides/Bird Cave Workshop 2021 - Intro to R through Figures - answers.pdf) | [PDF Handout Style](slides/Bird Cave Workshop 2021 - Intro to R through Figures - answers-print.pdf)) -->
+- Answer Slides ([PDF](slides/Bird Cave Workshop 2021 - Intro to R through Figures - answers.pdf) | [PDF Handout Style](slides/Bird Cave Workshop 2021 - Intro to R through Figures - answers-print.pdf))
